@@ -443,7 +443,7 @@ Evidence yang tersedia membuktikan **directory listing**, tetapi isi backup tida
 
 ### 9. Nurclei STAMAR Merak
 
-<img src="Evidence/04-nuclei-stamar-merak" width="900">
+<img src="Evidence/04-nuclei-stamar-merak.png" width="900">
 
 *Gambar 9. Hasil Nurclei STAMAR Merak.*
 
@@ -451,7 +451,7 @@ Evidence yang tersedia membuktikan **directory listing**, tetapi isi backup tida
 
 ### 10. Backup Directory Listing
 
-<img src="Evidence/05-backup-directory-listing" width="900">
+<img src="Evidence/05-backup-directory-listing.png" width="900">
 
 *Gambar 10. Validasi manual directory listing /wp-content/backup-db/.*
 
