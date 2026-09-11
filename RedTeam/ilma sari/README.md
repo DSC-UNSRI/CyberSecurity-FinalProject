@@ -278,7 +278,14 @@ Ketiadaan header keamanan tidak secara langsung membuktikan compromise, tetapi d
 
 ### Evidence
 
-![Nuclei PPSDM](../Evidence/01-nuclei-ppsdm.png)
+### 6. Nuclei PPSDM
+
+<img src="Evidence/01-nuclei-ppsdm.png" width="900">
+
+*Gambar 6. Hasil Nuclei yang menunjukkan temuan hardening HTTP.*
+
+---
+
 
 ### Rekomendasi
 
@@ -317,7 +324,13 @@ Konfigurasi cookie yang terlalu permisif dapat meningkatkan risiko penyalahgunaa
 
 ### Evidence
 
-![Cookie Security Evidence](../Evidence/01-nuclei-ppsdm.png)
+### 7. Cookie Security Evidance
+
+<img src="Evidence/01-nuclei-ppsdm.png" width="900">
+
+*Gambar 7. Hasil scanning terkait cookie security.*
+
+---
 
 ### Rekomendasi
 
@@ -354,7 +367,13 @@ Jika resource pihak ketiga mengalami perubahan tidak sah, browser dapat menerima
 
 ### Evidence
 
-![Missing SRI](../Evidence/01-nuclei-ppsdm.png)
+### 8. Missing SRI
+
+<img src="Evidence/01-nuclei-ppsdm.png" width="900">
+
+*Gambar 8. Hasil Nuclei yang menunjukkan missing SRI.*
+
+---
 
 ### Rekomendasi
 
@@ -422,9 +441,19 @@ Evidence yang tersedia membuktikan **directory listing**, tetapi isi backup tida
 
 ### Evidence
 
-![Nuclei STAMAR Merak](../Evidence/04-nuclei-stamar-merak.png)
+### 9. Nurclei STAMAR Merak
 
-![Backup Directory Listing](../Evidence/05-backup-directory-listing.png)
+<img src="Evidence/04-nuclei-stamar-merak" width="900">
+
+*Gambar 9. Hasil Nurclei STAMAR Merak.*
+
+---
+
+### 10. Backup Directory Listing
+
+<img src="Evidence/05-backup-directory-listing" width="900">
+
+*Gambar 10. Validasi manual directory listing /wp-content/backup-db/.*
 
 ### Rincian CVSS
 
