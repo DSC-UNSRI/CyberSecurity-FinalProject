@@ -130,11 +130,11 @@ Exposure konfigurasi dapat mengungkap:
 
 ### Evidence
 
-![Nuclei PPSDM](RedTeam/ilma sari/Evidence/01-nuclei-ppsdm.png.)
+![Nuclei PPSDM](RedTeam/ilmasari/Evidence/01-nuclei-ppsdm.png.)
 
-![Claude Settings](RedTeam/ilma sari/Evidence/02-claude-settings.png)
+![Claude Settings](RedTeam/ilmasari/Evidence/02-claude-settings.png)
 
-![Claude Settings Local](ReadTeam/ilma sari/Evidence/03-claude-settings-local.png)
+![Claude Settings Local](ReadTeam/ilmasari/Evidence/03-claude-settings-local.png)
 
 ### Rincian CVSS
 
