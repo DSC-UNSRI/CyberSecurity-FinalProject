@@ -130,11 +130,29 @@ Exposure konfigurasi dapat mengungkap:
 
 ### Evidence
 
-![Nuclei PPSDM](Evidence/01-nuclei-ppsdm.png.)
+### 1. Nuclei Scan - PPSDM
 
-![Claude Settings](Evidence/02-claude-settings.png)
+<img src="Evidence/01-nuclei-ppsdm.png" width="900">
 
-![Claude Settings Local](Evidence/03-claude-settings-local.png)
+*Gambar 1. Hasil scanning Nuclei terhadap target PPSDM.*
+
+---
+
+### 2. Claude Settings
+
+<img src="Evidence/02-claude-settings.png" width="900">
+
+*Gambar 2. Hasil validasi exposure file `.claude/settings.json`.*
+
+---
+
+### 3. Claude Settings Local
+
+<img src="Evidence/03-claude-settings-local.png" width="900">
+
+*Gambar 3. Hasil validasi exposure file `.claude/settings.local.json`.*
+
+---
 
 ### Rincian CVSS
 
