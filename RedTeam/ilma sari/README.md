@@ -206,11 +206,23 @@ Apabila credential masih aktif dan database dapat dijangkau, pihak tidak berwena
 4. Dokumentasikan exposure.
 5. Tidak melakukan login menggunakan credential yang ditemukan.
 
-### Evidence
+### Evidencez
 
-![Database Credential Exposure](../Evidence/02-claude-settings.png)
+### 4.Database Credential Exposure 
 
-![Local Configuration](../Evidence/03-claude-settings-local.png)
+<img src="Evidence/02-claude-settings.png" width="900">
+
+*Gambar 4. Hasil exposure parameter koneksi database pada `.claude/settings.json`.*
+
+---
+
+### 5. Local Configuration
+
+<img src="Evidence/03-claude-settings-local.png" width="900">
+
+*Gambar 5. Hasil exposure parameter koneksi database pada `.claude/settings.local.json`.* 
+
+---
 
 ### Rincian CVSS
 
