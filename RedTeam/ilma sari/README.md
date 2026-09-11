@@ -453,7 +453,7 @@ Evidence yang tersedia membuktikan **directory listing**, tetapi isi backup tida
 
 <img src="Evidence/05-backup-directory-listing.png" width="900">
 
-*Gambar 10. Validasi manual directory listing /wp-content/backup-db/.*
+*Gambar 10. Validasi manual directory listing `/.wp-content/backup-db/`.*
 
 ### Rincian CVSS
 
