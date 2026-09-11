@@ -48,13 +48,13 @@ Tidak ditemukan kerentanan Critical/High. Kedua temuan bersifat kelemahan konfig
 
 **Deteksi otomatis (OWASP ZAP):**
 
-<!-- 📸 Taruh screenshot hasil scan OWASP ZAP untuk temuan CSP di sini -->
-`[ screenshot: zap-csp-scan.png ]`
+<img width="766" height="721" alt="WhatsApp Image 2026-09-11 at 19 16 47" src="https://github.com/user-attachments/assets/6c75fe85-048b-4d3b-bb63-17c9605d086a" />
+
 
 **Deteksi manual (`curl -m 10 -i https://www.bmkg.go.id/cuaca/radar`):**
 
-<!-- 📸 Taruh screenshot output curl / response header di sini -->
-`[ screenshot: curl-csp-header.png ]`
+<img width="940" height="285" alt="image" src="https://github.com/user-attachments/assets/a80d5348-9f68-4a5f-bdf6-f8eeb5108297" />
+
 
 **Remediation:**
 ```
@@ -71,13 +71,13 @@ Content-Security-Policy: ...; frame-ancestors 'self'; form-action 'self';
 
 **Deteksi otomatis (OWASP ZAP):**
 
-<!-- 📸 Taruh screenshot hasil scan OWASP ZAP untuk temuan cookie di sini -->
-`[ screenshot: zap-cookie-scan.png ]`
+<img width="675" height="595" alt="image" src="https://github.com/user-attachments/assets/b0718414-8701-4a28-adf1-5b81f6710600" />
+
 
 **Deteksi manual (response header `Set-Cookie`):**
 
-<!-- 📸 Taruh screenshot bukti header Set-Cookie tanpa flag Secure di sini -->
-`[ screenshot: manual-cookie-header.png ]`
+<img width="940" height="945" alt="image" src="https://github.com/user-attachments/assets/b439ce70-e3b4-42d8-9a65-2c32e48d2638" />
+
 
 **Remediation:**
 ```
